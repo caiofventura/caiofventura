@@ -9,12 +9,6 @@
 
 Desenvolvedor em formação no **Instituto Infnet**, focado na construção de aplicações **Full Stack**, APIs REST e soluções integradas a modelos de **Inteligência Artificial (OpenAI & Google Gemini)**.
 
-Trago uma sólida bagagem prévia como **Advogado** e **ex-sócio de empresa do setor de mineração** em parceria com investidores estrangeiros. Essa trajetória me proporciona uma capacidade diferenciada para compreender regras de negócio complexas, governança, análise de riscos e requisitos regulatórios, traduzindo necessidades corporativas em código eficiente.
-
-- Cursando **Análise e Desenvolvimento de Sistemas** (Instituto Infnet)
-- Bacharel em **Direito** e **Relações Internacionais**
-- Foco atual: **Desenvolvimento Full Stack & IA**
-
 ---
 
 ### Domínio Técnico & Tecnologias
